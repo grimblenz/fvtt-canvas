@@ -1,0 +1,17 @@
+{
+  "name": "fvtt-canvas",
+  "title": "fvtt-canvas",
+  "description": "Allows GM control of player canvas",
+  "systems": [],
+  "version": "0.1.0",
+  "author": "",
+  "authors": [
+    {
+      "name": "Grimble",
+      "email": "grimblenz@gmail.com",
+      "url": ""
+    }
+  ],
+  "scripts": ["fvtt-canvas.js"],
+  "minimumCoreVersion": "0.5.0"
+}
